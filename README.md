@@ -1,4 +1,6 @@
 # Banzuela Persons API with Node JS
 to run:
-npm install
-node app.js
+```sh
+$ npm install 
+$ node app.JS
+```
