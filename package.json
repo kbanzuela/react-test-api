@@ -1,0 +1,10 @@
+{
+  "name": "banzuela-api-server",
+  "description": "Basic Server with Person API",
+  "version": "0.0.1",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "3.x",
+    "lodash": "^4.17.4"
+  }
+}
